@@ -1,0 +1,10 @@
+{
+  "name": "Berlin",
+  "population": 3600000,
+  "isCapital": true,
+  "area": {
+    "km2": 10000,
+    "acres": 1000
+  },
+  "languages": ["en", "de", "es", "tu"]
+}
